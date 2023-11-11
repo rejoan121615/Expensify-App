@@ -77,7 +77,6 @@ android/app/android-fastlane-json-key.json
 /vendor/bundle/
 
 # Local DEV config
-/.env
 
 # Storybook build files
 storybook-static
@@ -114,3 +113,4 @@ yalc.lock
 
 # Local https certificate/key
 config/webpack/*.pem
+config.bat
